@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hola, soy Hairo Espinoza</h1>
-<h3 align="center">💻 Software Engineering student focused on web and technological development</h3>
+<h3 align="center">Software Engineering student focused on web and technological development</h3>
 
 - 📫 Contact **hairo240569@gmail.com**
 
