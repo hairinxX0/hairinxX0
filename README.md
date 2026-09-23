@@ -3,7 +3,7 @@
 
 - 📫 Contact **hairo240569@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
